@@ -1,3 +1,7 @@
 *.db
 .idea
+.idea/
 .vscode
+/shelf/
+/workspace.xml
+
